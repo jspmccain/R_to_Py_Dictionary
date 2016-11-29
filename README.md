@@ -9,4 +9,5 @@ The quality of this is tied with the quality of the "dictionary" you use. The on
 
 This is probably better as a shiny app or something, but that's for future me to think about.
 
+
 *This is part of a larger effort that I'm trying to document my struggles of learning new concepts and tools. The aim is to re-examine those struggles if I'm ever teaching the concept*
