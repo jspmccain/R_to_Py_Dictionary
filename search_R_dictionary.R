@@ -1,8 +1,10 @@
-#I am an experienced R user, but am starting to get into Python. This is a running list of the frustrations and/or translations, where I think "I know exactly how to do this in R, what is the equivalent function?!! #$%@"
-setwd("C:\\Users\\Scott\\Google Drive\\R Projects\\R to Python")
-R_to_Py <- read.csv("R_to_Python_Dictionary.csv", stringsAsFactors = FALSE)
+#setwd("C:\\Users\\Scott\\Google Drive\\R Projects\\R to Python")
+
+R_to_Py <- read.csv("R_to_Python_Dictionary.csv", 
+                    stringsAsFactors = FALSE)
 
 search_R <- function(R_function, dictionary = R_to_Py){
+  #variables below are for debugging
   # dictionary <- R_to_Py
   # R_function <- "data_frame"
   lev_distance <- adist(R_function, 
@@ -28,4 +30,4 @@ search_R <- function(R_function, dictionary = R_to_Py){
   }
 }
 
-search_R(R_function = "data_.fre")
+search_R(R_function = "data.framee")
