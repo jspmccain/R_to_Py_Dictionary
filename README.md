@@ -1,7 +1,7 @@
 # R_to_Py_Dictionary
 ##Tool for Guiding an R user learning Python
 
-I've been using R for a bit, and am starting to learn some Python. This is a running list of the translations, where I think "I know exactly how to do this in R, what is the equivalent function in Python?!?! #$%@"
+I've been using R for a bit, and am starting to learn some Python. I keep running into this situation: "I know exactly how to do this in R, what is the equivalent function in Python?!?! #$%@". This R-to-Python dictionary is meant to help answer that question. 
 
 The "dictionary"\* in this case is just two columns, the first is the name of the intended R function/object. The second column is an entry that describes an analogous procedure or function in Python. The effectiveness of this script is tied with the quality of the "dictionary" you use. The one I have uploaded here is just a personal entry, obviously I'm still learning Python!
 
