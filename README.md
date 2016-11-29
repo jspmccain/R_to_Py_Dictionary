@@ -16,6 +16,8 @@ To use:
 
 \*not to be confused with the data structure, "dictionary", in python
 
+_____________________________________
+
 *This is part of a larger effort that I'm trying to document my struggles of learning new concepts and tools. The aim is to re-examine those struggles if I'm ever teaching the concept in the future.*
 
 *This might also be way too much, and googling is easier.. who knows*
