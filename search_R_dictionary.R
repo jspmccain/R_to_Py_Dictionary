@@ -1,5 +1,7 @@
 #setwd("C:\\Users\\Scott\\Google Drive\\R Projects\\R to Python")
 
+library(magrittr)
+
 R_to_Py <- read.csv("R_to_Python_Dictionary.csv", 
                     stringsAsFactors = FALSE)
 
